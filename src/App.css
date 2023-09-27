@@ -1,0 +1,12 @@
+/* App.css */
+
+.custom-title {
+    /* Custom font style */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /* Replace with your desired font family */
+    font-weight: bold; /* Adjust font weight as needed */
+  
+    /* Custom font color */
+    color: #84888bd5; /* Replace with your desired color code */
+  }
+  
+  

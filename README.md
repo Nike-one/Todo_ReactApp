@@ -2,10 +2,10 @@
 A simple Todo App built using <a href="https://reactjs.org/">React</a> 
 
 # Build Setup
-**install dependencies**
+<u>**install dependencies**</u>
 
 npm install
 
-**serve at localhost:3000**
+<u>**serve at localhost:3000**</u>
 
 npm start
